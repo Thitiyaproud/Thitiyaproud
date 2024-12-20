@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a student.
 --------------
 
-I'm currently pursuing a degree in Computer Engineering at Naresuan University, I have experience in programming languages, including JavaScript, TypeScript, Python and C.
+I recently graduated with a degree in Computer Engineering from Naresuan University. I have experience in programming languages, including JavaScript, TypeScript, Python, and C.
 
 *   🌍  I'm based in Phitsanulok.
 *   ✉️  You can contact me at [thitiyaproud@gmail.com](mailto:thitiyaproud@gmail.com)
